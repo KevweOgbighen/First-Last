@@ -28,7 +28,6 @@ public class FirstLast {
         System.out.println("Hello there " + firstName + " I have your first name as " + firstName + ", which has " + firstNameNum + " characters.");
         System.out.println("Hello again " + firstName + " I have your last name as " + lastName + ", which has " + lastNameNum + " characters.");
         System.out.println("Did you know that your initials are " + initials);
-        System.out.print("Do you wish to continue (Y)Yes or (N)No?");
         
         sc.close();
 	}
